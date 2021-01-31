@@ -12,6 +12,7 @@ git clone https://github.com/nguyendv/fullstackweb
 To run the frontend, you'll need install `http-server`:
 ```bash
 npm install -g http-server`
+```
 
 Then
 ```bash
@@ -75,7 +76,7 @@ Frontend sends a GET /items request to Backend
 Backend responds with a list of items
 
 ### Homework
-** Without editing index.html file **, update the javascript backend and frontend to display a list of todo lists, and for each list display its items.
+Update the javascript backend and frontend to display a list of todo lists, and for each list display its items.
 
 1. Modify the data.json to have multiple lists, such as:
 ```
